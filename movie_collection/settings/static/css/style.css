@@ -1,0 +1,41 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.collection {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.collection h2 {
+    margin-bottom: 5px;
+}
+
+.collection p {
+    margin-bottom: 10px;
+}
+
+.collection ul {
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+.collection button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.collection button:hover {
+    background-color: #0056b3;
+}
